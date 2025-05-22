@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/05/18 12:02:24.000.221,=C:\Studio\PjxsAlexandria\Unit1.pas</Transaction>
+    <Transaction>2025/05/18 12:07:24.000.518,C:\Studio\PjxsAlexandria\Unit1.pas=C:\Studio\ElitePOS\FInvoicePOSeNCF.pas</Transaction>
+    <Transaction>2025/05/18 12:07:24.000.518,C:\Studio\PjxsAlexandria\Unit1.dfm=C:\Studio\ElitePOS\FInvoicePOSeNCF.dfm</Transaction>
+    <Transaction>2025/05/18 12:07:35.000.146,C:\Studio\PjxsAlexandria\Project1.dproj=C:\Studio\ElitePOS\frmInvoicePOSeNCFPjx.dproj</Transaction>
+    <Transaction>2025/05/18 20:52:10.000.356,=C:\Studio\ElitePOS\Unit1.pas</Transaction>
+    <Transaction>2025/05/18 20:53:21.000.177,C:\Studio\ElitePOS\Unit1.dfm=C:\Studio\ElitePOS\FnewInvoiceFlashCreate.dfm</Transaction>
+    <Transaction>2025/05/18 20:53:21.000.177,C:\Studio\ElitePOS\Unit1.pas=C:\Studio\ElitePOS\FnewInvoiceFlashCreate.pas</Transaction>
+    <Transaction>2025/05/18 20:53:42.000.043,=C:\Studio\ElitePOS\Unit1.pas</Transaction>
+    <Transaction>2025/05/18 20:54:18.000.644,C:\Studio\ElitePOS\Unit1.dfm=C:\Studio\ElitePOS\FNewCustomerFlashCrearte.dfm</Transaction>
+    <Transaction>2025/05/18 20:54:18.000.644,C:\Studio\ElitePOS\Unit1.pas=C:\Studio\ElitePOS\FNewCustomerFlashCrearte.pas</Transaction>
+    <Transaction>2025/05/18 20:55:15.000.807,=C:\Studio\ElitePOS\ArqueCuadreDeCaja.pas</Transaction>
+    <Transaction>2025/05/18 20:56:01.000.301,C:\Studio\ElitePOS\ArqueCuadreDeCaja.pas=C:\Studio\ElitePOS\ArqueoCuadreDeCaja.pas</Transaction>
+    <Transaction>2025/05/18 20:56:01.000.301,C:\Studio\ElitePOS\ArqueCuadreDeCaja.dfm=C:\Studio\ElitePOS\ArqueoCuadreDeCaja.dfm</Transaction>
+    <Transaction>2025/05/18 21:02:14.000.803,C:\Studio\ElitePOS\FnewInvoiceFlashCreate.pas=C:\Studio\ElitePOS\FnewProductFlashCreate.pas</Transaction>
+    <Transaction>2025/05/18 21:02:14.000.803,C:\Studio\ElitePOS\FnewInvoiceFlashCreate.dfm=C:\Studio\ElitePOS\FnewProductFlashCreate.dfm</Transaction>
+    <Transaction>2025/05/18 21:15:46.000.035,=C:\Studio\ElitePOS\Unit1.pas</Transaction>
+    <Transaction>2025/05/18 21:17:14.000.125,C:\Studio\ElitePOS\Unit1.pas=C:\Studio\ElitePOS\FfrmSearchAndFindQuiclyProducts.pas</Transaction>
+    <Transaction>2025/05/18 21:17:14.000.125,C:\Studio\ElitePOS\Unit1.dfm=C:\Studio\ElitePOS\FfrmSearchAndFindQuiclyProducts.dfm</Transaction>
+    <Transaction>2025/05/18 21:17:22.000.263,=C:\Studio\ElitePOS\Unit1.pas</Transaction>
+    <Transaction>2025/05/18 21:18:43.000.253,C:\Studio\ElitePOS\Unit1.pas=C:\Studio\ElitePOS\FSearchFindQuicklyProducts.pas</Transaction>
+    <Transaction>2025/05/18 21:18:43.000.253,C:\Studio\ElitePOS\Unit1.dfm=C:\Studio\ElitePOS\FSearchFindQuicklyProducts.dfm</Transaction>
+    <Transaction>2025/05/18 21:18:54.000.284,=C:\Studio\ElitePOS\Unit1.pas</Transaction>
+    <Transaction>2025/05/18 21:19:31.000.906,C:\Studio\ElitePOS\Unit1.pas=C:\Studio\ElitePOS\FSearchFindQuicklyServices.pas</Transaction>
+    <Transaction>2025/05/18 21:19:31.000.906,C:\Studio\ElitePOS\Unit1.dfm=C:\Studio\ElitePOS\FSearchFindQuicklyServices.dfm</Transaction>
+    <Transaction>2025/05/18 21:32:44.000.975,C:\Studio\ElitePOS\FSearchFindQuicklyProducts.pas=C:\Studio\ElitePOS\FProductsSearchDialogForm.pas</Transaction>
+    <Transaction>2025/05/18 21:32:44.000.975,C:\Studio\ElitePOS\FSearchFindQuicklyProducts.dfm=C:\Studio\ElitePOS\FProductsSearchDialogForm.dfm</Transaction>
+    <Transaction>2025/05/18 21:33:28.000.929,C:\Studio\ElitePOS\FSearchFindQuicklyServices.dfm=C:\Studio\ElitePOS\FfrmServicesSearchFindDialogForm.dfm</Transaction>
+    <Transaction>2025/05/18 21:33:28.000.929,C:\Studio\ElitePOS\FSearchFindQuicklyServices.pas=C:\Studio\ElitePOS\FfrmServicesSearchFindDialogForm.pas</Transaction>
+    <Transaction>2025/05/18 21:34:35.000.645,C:\Studio\ElitePOS\FfrmSearchAndFindQuiclyProducts.pas=C:\Studio\ElitePOS\FfrmCustomerSearchDialogForm.pas</Transaction>
+    <Transaction>2025/05/18 21:34:35.000.645,C:\Studio\ElitePOS\FfrmSearchAndFindQuiclyProducts.dfm=C:\Studio\ElitePOS\FfrmCustomerSearchDialogForm.dfm</Transaction>
+    <Transaction>2025/05/18 21:37:04.000.825,C:\Studio\ElitePOS\FfrmServicesSearchFindDialogForm.dfm=C:\Studio\ElitePOS\FServicesSearchDialogForm.dfm</Transaction>
+    <Transaction>2025/05/18 21:37:04.000.825,C:\Studio\ElitePOS\FfrmServicesSearchFindDialogForm.pas=C:\Studio\ElitePOS\FServicesSearchDialogForm.pas</Transaction>
+    <Transaction>2025/05/18 21:37:29.000.494,C:\Studio\ElitePOS\FfrmCustomerSearchDialogForm.pas=C:\Studio\ElitePOS\FCustomerSearchDialogForm.pas</Transaction>
+    <Transaction>2025/05/18 21:37:29.000.494,C:\Studio\ElitePOS\FfrmCustomerSearchDialogForm.dfm=C:\Studio\ElitePOS\FCustomerSearchDialogForm.dfm</Transaction>
+    <Transaction>2025/05/18 21:42:14.000.669,=C:\Studio\ElitePOS\Unit1.pas</Transaction>
+    <Transaction>2025/05/18 21:43:16.000.135,C:\Studio\ElitePOS\Unit1.pas=C:\Studio\ElitePOS\FInvoiceSearchDialogForm.pas</Transaction>
+    <Transaction>2025/05/18 21:43:16.000.135,C:\Studio\ElitePOS\Unit1.dfm=C:\Studio\ElitePOS\FInvoiceSearchDialogForm.dfm</Transaction>
+    <Transaction>2025/05/18 21:46:41.000.271,=C:\Studio\ElitePOS\Unit1.pas</Transaction>
+    <Transaction>2025/05/18 22:31:26.000.290,C:\Studio\ElitePOS\FInvoiceSearchDialogForm.pas=C:\Studio\ElitePOS\FCustomerInvoiceSearchDialogForm.pas</Transaction>
+    <Transaction>2025/05/18 22:31:26.000.290,C:\Studio\ElitePOS\FInvoiceSearchDialogForm.dfm=C:\Studio\ElitePOS\FCustomerInvoiceSearchDialogForm.dfm</Transaction>
+    <Transaction>2025/05/19 19:59:36.000.292,=C:\Studio\ElitePOS\FacturadorMainMenu.pas</Transaction>
+    <Transaction>2025/05/19 20:15:07.000.915,=C:\Studio\ElitePOS\Unit1.pas</Transaction>
+    <Transaction>2025/05/19 20:45:04.000.815,C:\Studio\ElitePOS\Unit1.dfm=C:\Studio\ElitePOS\FAmigoQueNuncaFalla.dfm</Transaction>
+    <Transaction>2025/05/19 20:45:04.000.815,C:\Studio\ElitePOS\Unit1.pas=C:\Studio\ElitePOS\FAmigoQueNuncaFalla.pas</Transaction>
+  </Transactions>
+</BorlandProject>
